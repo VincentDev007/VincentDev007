@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Vincent 👋
 
-<!--
-**VincentDev007/VincentDev007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software developer building LLM tools, dev utilities, and mobile apps — focused on the technical challenge and getting the architecture right.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Currently Building
+
+- **Sydny** — Offline desktop AI assistant (Tauri, Ollama, Whisper)
+- **Cerebra** — Desktop notes app with FTS5 full-text search (Electron, SQLite)
+
+---
+
+## 🛠 Tech Stack
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=flat&logo=tauri&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![Vincent's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VincentDev007&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VincentDev007&layout=compact&theme=default&hide_border=true)
