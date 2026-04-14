@@ -22,9 +22,3 @@ Software developer building LLM tools, dev utilities, and mobile apps — focuse
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-![Vincent's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VincentDev007&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VincentDev007&layout=compact&theme=default&hide_border=true)
