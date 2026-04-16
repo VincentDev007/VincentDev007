@@ -1,6 +1,6 @@
 # Hi, I'm Vincent 👋
 
-IT Programming student at NSCC. Backend-focused, building tools that help people create.
+IT Programming student at NSCC. Building tools that help people create.
 
 [Portfolio](https://vincent-agra-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/vincent-agra-329648264/)
 
