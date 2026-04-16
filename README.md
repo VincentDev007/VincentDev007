@@ -8,8 +8,9 @@ IT Programming student at NSCC. Backend-focused, building tools that help people
 
 ## 🔧 Currently Building
 
-- **Sydny** — Offline desktop AI assistant powered by Whisper and Ollama.
-- **Cerebra** — Desktop notes app with full-text search and sticky notes.
+- **[Sydny](https://github.com/VincentDev007/sydny-voice-assistant-automation-tool)** — Offline desktop AI assistant powered by Whisper and Ollama.
+- **[Cerebra](https://github.com/VincentDev007/cerebra-notes-app)** — Desktop notes app with full-text search and sticky notes.
+
 
 ---
 
