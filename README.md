@@ -1,13 +1,15 @@
 # Hi, I'm Vincent 👋
 
-Software developer building LLM tools, dev utilities, and mobile apps — focused on the technical challenge and getting the architecture right.
+IT Programming student at NSCC. Backend-focused, building tools that help people create.
+
+[Portfolio](https://vincent-agra-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/vincent-agra-329648264/)
 
 ---
 
 ## 🔧 Currently Building
 
-- **Sydny** — Offline desktop AI assistant (Tauri, Ollama, Whisper)
-- **Cerebra** — Desktop notes app with FTS5 full-text search (Electron, SQLite)
+- **Sydny** — Offline desktop AI assistant powered by Whisper and Ollama.
+- **Cerebra** — Desktop notes app with full-text search and sticky notes.
 
 ---
 
